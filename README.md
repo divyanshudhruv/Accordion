@@ -1,4 +1,4 @@
-# 🎈 Modern Accordion 🎈
+# 🎈 Accordion Menu 🎈
 📑 **Description**
 * A Modern Accordion Made With `HTML` , `CSS` And `JavaScript`
 * U Can See The **Preview** (`v 0.2`) At - https://divyanshudhruv.github.io/Accordion/
